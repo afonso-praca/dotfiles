@@ -1,0 +1,7 @@
+alias gr='grunt'
+alias gs='git status'
+alias gp='git pull'
+alias ga='git add . --all'
+alias gc='git changelog'
+alias gg='git graph'
+alias ws='wstorm . > /dev/null 2>&1 &'
